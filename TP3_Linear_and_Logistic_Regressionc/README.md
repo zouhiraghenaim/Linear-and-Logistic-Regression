@@ -1,6 +1,6 @@
 # TP3: Linear and Logistic Regression (Classic vs. Trained)
 
-This folder contains the practical implementation and solutions for **Series No. 2: Classic Regression vs. Trained Regression**, dedicated to the **Master GRH and Management** program at the **University of Eloued**.
+The folder contains the practical implementation and solutions for **Series No. 02 : Classic Regression vs. Trained Regression**.
 
 ##  Project Overview
 The objective of this TP is to contrast the traditional statistical approach to regression (In-Sample inference using `statsmodels`) with the modern machine learning paradigm (Out-of-Sample predictive generalization using `scikit-learn`).
